@@ -1,6 +1,7 @@
 # MKSTOPWATCH
 
-A new Flutter project.
+A stopwatch in Flutter using the ChangeNotifier Provider of Riverpod.
+For the animation, I have used metaballs.
 
 ## Getting Started
 
